@@ -56,7 +56,7 @@ Any bugs found during testing will be reported for tracking and resolution.
 
 4. **Set Authorization Header**  
    - Navigate to the **Authorization** section in Swagger.  
-   - Add `Bearer` followed by a space and your copied token to the authorization header to authenticate your API requests `Bearer <Token>`.
+   - Add `Bearer` followed by a space and your token to the authorization header to authenticate your API requests `Bearer Token`.
 
 
 # Bugs [Bug Documentation](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=2059204296#gid=2059204296)
