@@ -14,7 +14,7 @@ This document outlines the manual testing process for the **InMemoryAuthAPI**, w
 
 Testing involves both functional and non-functional requirements of the API. All test cases are documented and accessible via the following link:
 
-- [**Test Cases**](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=28818539#gid=28818539)
+- [**Test Cases and Bug Reports **](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=0#gid=0)
 
 ### Bug Reporting:
 Any bugs found during testing will be reported for tracking and resolution.
@@ -40,6 +40,7 @@ Any bugs found during testing will be reported for tracking and resolution.
 - **Create Invoice**: Creates a new invoice.
 - **Return Invoice**: Processes the return of an invoice.
 - **Pay Invoice**: Processes the payment for an invoice.
+  
 ## Pre-Conditions
 
 1. **Open Swagger API Documentation**  
@@ -58,7 +59,7 @@ Any bugs found during testing will be reported for tracking and resolution.
    - Add `Bearer` followed by a space and your copied token to the authorization header to authenticate your API requests `Bearer "Token"`.
 
 
-# Bugs
+# Bugs [Bug Documentation](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=2059204296#gid=2059204296)
 
 - ** Bug_1 **: Create Contact -> Request Body Doesn't Match the request Body [Bug 1](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_1)
 - ** Bug_2 **: Contacts -> ID is not a unique identifier and many contact could have the same id [Bug 2](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_2)
