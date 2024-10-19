@@ -61,16 +61,16 @@ Any bugs found during testing will be reported for tracking and resolution.
 
 # Bugs [Bug Documentation](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=2059204296#gid=2059204296)
 
-- ** Bug_1 **: Create Contact -> Request Body Doesn't Match the request Body [Bug 1](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_1)
-- ** Bug_2 **: Contacts -> ID is not a unique identifier and many contact could have the same id [Bug 2](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_2)
-- ** Bug_3 **: Contact -> Corruption of data [Bug 3](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_3)
-- ** Bug_4 **: Contacts -> Balance -> The balance doesn't update when entering new value it stays the same [Bug 4](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_4)
-- ** Bug_5 **: Contact -> Delete -> When Deleting the Contact, The contact isn't fully deleted from the DB [Bug 5](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_5)
-- ** Bug_6 **: Invoice -> ID -> ID is not unique and multiple invoice can have the same ID [Bug 6](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_6)
-- ** Bug_7 **: Invoice -> Status -> status could be changed to any numbers not only 1, 2 and 3 [Bug 7](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_7)
-- ** Bug_8 **: Invoice -> Data corruption because id is not unique and more than one invoice could have the same id [Bug 8](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_8)
-- ** Bug_9 **: Invoice -> unable to change the invoice to return [Bug 9](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_9)
-- ** Bug_10 **: Invoice -> Unable to pay the amount of feeds [Bug 10](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_10)
+- **Bug_1**: Create Contact -> Request Body Doesn't Match the request Body [Bug 1](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_1)
+- **Bug_2**: Contacts -> ID is not a unique identifier and many contact could have the same id [Bug 2](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_2)
+- **Bug_3**: Contact -> Corruption of data [Bug 3](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_3)
+- **Bug_4**: Contacts -> Balance -> The balance doesn't update when entering new value it stays the same [Bug 4](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_4)
+- **Bug_5**: Contact -> Delete -> When Deleting the Contact, The contact isn't fully deleted from the DB [Bug 5](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_5)
+- **Bug_6**: Invoice -> ID -> ID is not unique and multiple invoice can have the same ID [Bug 6](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_6)
+- **Bug_7**: Invoice -> Status -> status could be changed to any numbers not only 1, 2 and 3 [Bug 7](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_7)
+- **Bug_8**: Invoice -> Data corruption because id is not unique and more than one invoice could have the same id [Bug 8](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_8)
+- **Bug_9**: Invoice -> unable to change the invoice to return [Bug 9](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_9)
+- **Bug_10**: Invoice -> Unable to pay the amount of feeds [Bug 10](https://github.com/MMousa126/API-Testing---InMemoryAuthAPI-V1/tree/master/Issues/issue_10)
 
 
 
