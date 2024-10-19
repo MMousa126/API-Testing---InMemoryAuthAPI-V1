@@ -14,7 +14,7 @@ This document outlines the manual testing process for the **InMemoryAuthAPI**, w
 
 Testing involves both functional and non-functional requirements of the API. All test cases are documented and accessible via the following link:
 
-### [**Test Cases and Bug Reports Google Sheets**](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=0#gid=0)
+### [**Test Cases and Bug Reports - Google Sheets**](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=0#gid=0)
 
 ### Bug Reporting:
 Any bugs found during testing will be reported for tracking and resolution.
@@ -56,7 +56,7 @@ Any bugs found during testing will be reported for tracking and resolution.
 
 4. **Set Authorization Header**  
    - Navigate to the **Authorization** section in Swagger.  
-   - Add `Bearer` followed by a space and your copied token to the authorization header to authenticate your API requests `Bearer "Token"`.
+   - Add `Bearer` followed by a space and your copied token to the authorization header to authenticate your API requests `Bearer <Token>`.
 
 
 # Bugs [Bug Documentation](https://docs.google.com/spreadsheets/d/1di4_oJrd1n3Hkw6CmIrcpZ4swlGvlpB-00YibXNPqZg/edit?gid=2059204296#gid=2059204296)
